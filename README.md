@@ -1,4 +1,4 @@
 restservice
 ===========
 
-This is rest service
+This is a sample appplication using node, express and handlebars.
