@@ -1,4 +1,4 @@
 Express application
 ===========
 
-This is a sample appplication using node, express and handlebars.
+This is a sample application using node, express and handlebars.
