@@ -1,0 +1,26 @@
+{
+  "name": "express-rest-service",
+  "version": "1.0.0",
+  "description": "restservice ===========",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geeknitin/express-rest-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geeknitin/express-rest-service/issues"
+  },
+  "homepage": "https://github.com/geeknitin/express-rest-service#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "moment": "^2.24.0",
+    "uuid": "^3.3.2"
+  }
+}
